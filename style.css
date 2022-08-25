@@ -1,0 +1,22 @@
+header{
+    background-color: gray;
+    height: 150px;
+}
+main{
+    background-color: darkgrey;
+    height: auto;
+}
+aside{
+    background-color: darkgrey;
+    height: auto;
+}
+footer{
+    background-color: lightgrey;
+    height: 100px;
+}
+header .nav{
+    margin-top: 110px;
+}
+aside a{
+    color: inherit;
+}
